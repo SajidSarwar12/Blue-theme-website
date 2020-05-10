@@ -1,0 +1,43 @@
+.signInLeft{
+    height: 80vh;
+    width: 50%;
+    float: left;
+    background-image: url('../../assets/images/Signin.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+
+.signInRight{
+    height: 80vh;
+    width: 50%;
+    float: left;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+}
+
+.signinRightIn{
+    
+    margin: 50px auto;
+   
+    text-align: left;
+    width: 70%;
+}
+
+.signInBox{
+    width: 400px;
+    margin: auto;
+    height: 500px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.signinHeading{
+    font-size: 20px;
+    color: blue;
+    margin-top: 30px;
+    margin: 50px auto;
+}
