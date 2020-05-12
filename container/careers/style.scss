@@ -1,0 +1,81 @@
+#cardCareers{
+    padding-top: 50px;
+    height: 70vh;
+}
+
+.card{
+    width: 60%;
+    height: 80vh;
+    background-color: #fff;
+    margin: auto;
+   
+    border-radius: 10px;
+    
+    margin-top: 30px;
+    box-shadow: 1px 0px 4px rgba(0, 0, 0, .5);
+}
+
+.mainHeading{
+    text-align: center;
+    color: rgb(30, 108, 224);
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px auto;
+    
+}
+
+.cardCentrer{
+    height: 30vh;
+    width: 51%;
+   
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 100px;
+    padding: auto;
+}
+
+.cardLeft{
+    width: 150px;
+    height: 120px;
+    float: left;
+    border-radius: 10px;
+    border: 1px solid rgb(30, 108, 224);
+    margin: 15px ;
+    padding: 5px;
+    text-align: center;
+    color: rgb(30, 108, 224);
+}
+
+.cardRight{
+    width: 150px;
+    height: 120px;
+    float: left;
+    border-radius: 10px;
+    border: 1px solid rgb(30, 108, 224);
+    margin: 15px ; 
+    padding: 5px;
+    text-align: center;
+    color: rgb(30, 108, 224);
+}
+
+.cardLeftImage{
+    width: 150px;
+    height: 60px;
+    background-image: url('../../assets//images/group-3.png');
+    background-size: 100 100;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.cardRightImage{
+    width: 150px;
+    height: 60px;
+    background-image: url('../../assets//images/group-4.png');
+    background-size: 100 100;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    
+}
