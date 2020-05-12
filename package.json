@@ -2,10 +2,12 @@
   "name": "react-application",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://SajidSarwar12.github.io/Blue-theme-website",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "gh-pages": "^2.2.0",
     "node-sass": "^4.14.0",
     "pure-react-carousel": "^1.27.1",
     "react": "^16.13.1",
@@ -17,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "deploy": "gh-pages -d src",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

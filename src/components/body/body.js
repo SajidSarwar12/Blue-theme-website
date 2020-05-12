@@ -9,8 +9,6 @@ import Carousel2 from '../../assets/images/carousel2.jpg'
 import Carousel3 from '../../assets/images/carousel3.jpg'
 
 
-
-
 export default () => {
     return (
         <>
